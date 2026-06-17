@@ -1,4 +1,4 @@
-## 👋 Hi there, Hamzah Braimo here
+## 👋 Hi there, Hamzah Braimo here!
 **********************
 ## About Me
 - Currently a Computer Science and Engineering Student at Instituto Superior de Transportes e Comunicações (ISUTC)
@@ -38,6 +38,5 @@
 
 **********************
 ## How to reach me
-## 📫 Contact Me
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamzahbraimo)
-- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamzahbraimo)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzah@gmail.com)
