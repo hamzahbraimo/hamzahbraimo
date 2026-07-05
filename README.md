@@ -3,7 +3,7 @@
 ## About Me
 - Currently a Computer Science and Engineering Student at Instituto Superior de Transportes e Comunicações (ISUTC)
 
-- Passionate about data-related projects: from analysis to engineering
+- Passionate about DSA and data-related projects: from analysis to engineering
 
 - Focus on: building scalable, maintainable solutions with clean architecture
 
