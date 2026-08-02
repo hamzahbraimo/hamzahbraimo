@@ -42,3 +42,7 @@
 ## How to reach me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamzahbraimo)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzah@gmail.com)
+
+*********************
+## Check my roadmaps
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/hamzahbraimo)
